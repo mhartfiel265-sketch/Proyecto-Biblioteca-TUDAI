@@ -1,5 +1,8 @@
 package biblioteca;
 /*
+
+.
+
 Entrada:
 - Objetos Libro, Usuario y Prestamo.
 - Criterios de búsqueda: código, título o DNI.
